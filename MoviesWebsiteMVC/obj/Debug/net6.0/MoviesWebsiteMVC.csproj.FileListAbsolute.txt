@@ -60,3 +60,5 @@ C:\Users\dansa\source\repos\MoviesWebsiteMVC\MoviesWebsiteMVC\obj\Debug\net6.0\r
 C:\Users\dansa\source\repos\MoviesWebsiteMVC\MoviesWebsiteMVC\obj\Debug\net6.0\MoviesWebsiteMVC.pdb
 C:\Users\dansa\source\repos\MoviesWebsiteMVC\MoviesWebsiteMVC\obj\Debug\net6.0\MoviesWebsiteMVC.genruntimeconfig.cache
 C:\Users\dansa\source\repos\MoviesWebsiteMVC\MoviesWebsiteMVC\obj\Debug\net6.0\ref\MoviesWebsiteMVC.dll
+C:\Users\dansa\source\repos\MoviesWebsiteMVC\MoviesWebsiteMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dansa\source\repos\MoviesWebsiteMVC\MoviesWebsiteMVC\bin\Debug\net6.0\ZendeskApi_v2.dll
